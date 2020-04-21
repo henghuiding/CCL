@@ -15,9 +15,9 @@
   pages={2393--2402},
   year={2018}
 }
-'''
+```
 and
-'''
+```
 @article{ding2020semantic,
   title={Semantic Segmentation with Context Encoding and Multi-Path Decoding},
   author={Ding, Henghui and Jiang, Xudong and Shuai, Bing and Liu, Ai Qun and Wang, Gang},
